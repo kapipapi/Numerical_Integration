@@ -6,7 +6,7 @@
 ////////////////////////
 
 // Credits:
-// - Tomasz K. Pietrzak (http://if.pw.edu.pl/~topie/?str=2561)
+// - Tomasz K. Pietrzak (http://if.pw.edu.pl/~topie/)
 // - Paweł Żak (http://www.kipo.agh.edu.pl/data/NumInt.pdf)
 
 int main(int args, char **argv) {
